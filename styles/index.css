@@ -107,4 +107,39 @@ a {
   text-align: right;
   font-size: 1.4rem;
 }
+
+@media screen and (min-width: 760px) {
+  .header__title {
+    font-size: 6rem;
+  }
+  .header__subtitle {
+    font-size: 4rem;
+  }
+  .galery {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .galery__description {
+    font-size: 1.5rem;
+  }
+  .article {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .article__title {
+    font-size: 3rem;
+  }
+  .article__description--timeline {
+    font-size: 1.8rem;
+  }
+  .quote {
+    font-size: 1.8rem;
+  }
+  .details {
+    font-size: 2.5rem;
+  }
+  .footer {
+    font-size: 1.5rem;
+  }
+}
 /*# sourceMappingURL=index.css.map */
