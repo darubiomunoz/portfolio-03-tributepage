@@ -1,0 +1,40 @@
+{
+  "name": "project-03-tributepage",
+  "version": "1.0.0",
+  "description": "Tribute page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darubiomunoz/portfolio-03-tributepage.git"
+  },
+  "keywords": [
+    "HTML",
+    "semantic",
+    "HTML",
+    "CSS",
+    "Sass",
+    "BEM",
+    "Mobile",
+    "First",
+    "REspnsive",
+    "Design",
+    "Web",
+    "Accessibility",
+    "Screen",
+    "Reader",
+    "Github",
+    "Git",
+    "Github",
+    "Pages",
+    "Markdown"
+  ],
+  "author": "Diego Rubio <darubiomunoz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darubiomunoz/portfolio-03-tributepage/issues"
+  },
+  "homepage": "https://github.com/darubiomunoz/portfolio-03-tributepage#readme"
+}
