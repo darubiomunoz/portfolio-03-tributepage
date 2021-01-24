@@ -1,7 +1,11 @@
 .galery {
     width: 100%;
     height: auto;
+    border-radius: $border-radius;
     text-align: center;
+    background-color: $color-lightgrey;
+    color: $color-dark;
+    font-weight: $font-weight-x-bold;
 
     &__image {
         width: 100%;
@@ -9,6 +13,7 @@
 
     &__description {
         margin: 0 auto;
+        padding: 1rem 0;
         width: 80%;
         font-size: 1.1rem;
     }

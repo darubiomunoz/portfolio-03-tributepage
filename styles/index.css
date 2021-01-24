@@ -46,7 +46,11 @@ a {
 .galery {
   width: 100%;
   height: auto;
+  border-radius: 1rem;
   text-align: center;
+  background-color: #CCC5B9;
+  color: #252422;
+  font-weight: 900;
 }
 
 .galery__image {
@@ -55,6 +59,7 @@ a {
 
 .galery__description {
   margin: 0 auto;
+  padding: 1rem 0;
   width: 80%;
   font-size: 1.1rem;
 }
