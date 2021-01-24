@@ -8,4 +8,98 @@
 html {
   font-size: 62.5%;
 }
+
+.body {
+  width: 100%;
+  font-family: "Lato", sans-serif;
+  font-size: 1.6rem;
+  color: #FFFCF2;
+  background-color: #252422;
+}
+
+.main {
+  padding: 0 1.5rem;
+}
+
+a {
+  text-decoration: none;
+  color: #EB5E28;
+}
+
+.header {
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  margin: 3rem 0;
+}
+
+.header__title {
+  font-size: 3.5rem;
+  color: #EB5E28;
+}
+
+.header__subtitle {
+  font-size: 2rem;
+  font-weight: 400;
+  color: #CCC5B9;
+}
+
+.galery {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+.galery__image {
+  width: 100%;
+}
+
+.galery__description {
+  margin: 0 auto;
+  width: 80%;
+  font-size: 1.1rem;
+}
+
+.article {
+  padding: 3rem 0;
+}
+
+.article__title {
+  text-align: center;
+  margin-bottom: 3rem;
+  font-size: 2.2rem;
+  color: #EB5E28;
+}
+
+.article__description--timeline {
+  margin-bottom: 1rem;
+  font-size: 1.4rem;
+}
+
+.article__description--timeline strong {
+  color: #EB5E28;
+}
+
+.quote {
+  margin-top: 3rem;
+  font-size: 1.4rem;
+  color: #EB5E28;
+}
+
+.quote__owner {
+  margin-top: 1.5rem;
+}
+
+.details {
+  margin-bottom: 3rem;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+  font-size: 1.8rem;
+}
+
+.footer {
+  margin-bottom: 1rem;
+  padding-right: 2rem;
+  text-align: right;
+  font-size: 1.4rem;
+}
 /*# sourceMappingURL=index.css.map */
