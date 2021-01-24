@@ -11,6 +11,7 @@ html {
 
 .body {
   width: 100%;
+  position: relative;
   font-family: "Lato", sans-serif;
   font-size: 1.6rem;
   color: #FFFCF2;
@@ -24,6 +25,24 @@ html {
 a {
   text-decoration: none;
   color: #EB5E28;
+}
+
+.button--skiplink {
+  display: block;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  position: relative;
+  top: 1rem;
+  left: -300rem;
+  padding: .5rem 1rem;
+  border: 0.1rem solid #EB5E28;
+  border-radius: 1rem;
+}
+
+.button--skiplink:focus {
+  left: 1rem;
+  outline: none;
 }
 
 .header {

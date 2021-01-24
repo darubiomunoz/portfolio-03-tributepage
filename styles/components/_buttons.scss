@@ -1,0 +1,15 @@
+.button--skiplink {
+    display: block;
+    width: fit-content;
+    position: relative;
+    top: 1rem;
+    left: -300rem;
+    padding: .5rem 1rem;
+    border: .1rem solid $color-primary;
+    border-radius: $border-radius;
+
+    &:focus {
+        left: 1rem;
+        outline: none;
+    }
+}
