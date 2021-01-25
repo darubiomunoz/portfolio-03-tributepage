@@ -11,7 +11,7 @@ I liked making accessibility in this project so I'll keep creating accessibles w
 
 Please check the code and full project. Any advice and help is appreciated.
 
-https://github.com/darubiomunoz/portfolio-03-tributepage
+https://darubiomunoz.github.io/portfolio-03-tributepage/
 
 -------------------------------------------------------------------------------
 FR.
@@ -27,7 +27,7 @@ J'ai vraiment aimé rendre l'accessibilité dans ce projet donc je continuerai �
 
 S'il vous plait, vérifier le code et projet complet. Tout conseil ou aide sera apprécié.
 
-https://github.com/darubiomunoz/portfolio-03-tributepage
+https://darubiomunoz.github.io/portfolio-03-tributepage/
 
 -------------------------------------------------------------------------------
 ES.
@@ -43,4 +43,4 @@ Me gustó bastante hacer accesibilidad en este proyecto así que continuaré cre
 
 Por favor, revisa el código y proyecto completo. Cualquier consejo o ayuda es apreciada.
 
-https://github.com/darubiomunoz/portfolio-03-tributepage
+https://darubiomunoz.github.io/portfolio-03-tributepage/
