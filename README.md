@@ -17,7 +17,7 @@ Project Link: [https://darubiomunoz.github.io/portfolio-03-tributepage/](https:/
   <a href="https://darubiomunoz.github.io/portfolio-03-tributepage/">
     <img src="./assets/images/readme-logo.svg" alt="Logo" width="200" height="200">
   </a>
-  <h1 align="center">Clock</h1>
+  <h1 align="center">Tribute Page</h1>
   <p align="center">
     SASS
     <br />
