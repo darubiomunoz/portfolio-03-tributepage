@@ -3,6 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="./assets/icons/favicon.svg" />
         <title>Dr. Norman Bourlag</title>
         <link rel="stylesheet" href="./styles/normalize.css">
         <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -12,16 +13,16 @@
     <body id="body" class="body">
         <a class="button--skiplink" href="#article">Jump to the content</a>
         <header id="header" class="header">
-            <h1 class="header__title" tabindex="0">Doctor Norman Bourlaug</h1>
+            <h1 id="title" class="header__title" tabindex="0">Doctor Norman Bourlaug</h1>
             <h2 class="header__subtitle" tabindex="0">The man who saved a billion lives</h2>
         </header>
         <main id="main" class="main">
-            <figure class="galery">
-                <img class="galery__image" src="./assets/images/header-img.jpg" alt="Image of Doctor Norman Bourlag and seven mexican farmers in a wheat plantation field." tabindex="0">
-                <figcaption class="galery__description" tabindex="0">Dr. Norman Borlaug, third from the left, trains biologists in Mexico on how to increase wheat yields - part of his life-long war on hunger.</figcaption>
+            <figure id="img-div" class="galery">
+                <img id="image" class="galery__image" src="./assets/images/header-img.jpg" alt="Image of Doctor Norman Bourlag and seven mexican farmers in a wheat plantation field." tabindex="0">
+                <figcaption id="img-caption" class="galery__description" tabindex="0">Dr. Norman Borlaug, third from the left, trains biologists in Mexico on how to increase wheat yields - part of his life-long war on hunger.</figcaption>
             </figure>
             <article id="article" class="article">
-                <h2 class="article__title" tabindex="0">Here's a time line of Dr. Borlaug's life:</h2>
+                <h2 id="tribute-info" class="article__title" tabindex="0">Here's a time line of Dr. Borlaug's life:</h2>
                 <ul class="article__list">
                     <li class="article__description--timeline">
                         <p tabindex="0"><strong>1914</strong> - Born in Cresco, Iowa.</p>
@@ -80,7 +81,7 @@
                 </ul>
             </article>
             <section id="details" class="details">
-                <p class="details__content" tabindex="0">If you have time, you should read more about this incredible human being on his <a href="https://en.wikipedia.org/wiki/Norman_Borlaug" target="_blank">Wikipedia entry</a>.</p>
+                <p class="details__content" tabindex="0">If you have time, you should read more about this incredible human being on his <a id="tribute-link" href="https://en.wikipedia.org/wiki/Norman_Borlaug" target="_blank">Wikipedia entry</a>.</p>
             </section>
         </main>
         <footer id="footer" class="footer">
